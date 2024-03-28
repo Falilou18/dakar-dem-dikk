@@ -1,0 +1,53 @@
+   /* Partie Footer   */
+
+   .footer .container {
+    padding-top: 70px;
+    width: 30%;
+    margin: auto;
+}
+
+.footer {
+    padding-top: 70px;
+    padding-bottom: 20px;
+
+}
+
+.footer_logo {
+    margin-left: 45%;
+}
+
+.footer_logo img {
+    width: 80px;
+
+}
+
+.menu_footer {
+    margin-left: 30%;
+}
+
+.menu_footer ul {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    gap: 45px;
+}
+
+.menu_footer ul li a{
+    text-decoration: none;
+    color: #000;
+
+}
+
+.footer_bottom ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding-top: 50px;
+    margin-left: 40%;
+}
+
+.footer_bottom ul li a{
+    color: #847d7d;
+    text-decoration: none;
+    
+}
